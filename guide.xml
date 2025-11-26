@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Your EPG Generator">
-    <channel id="nickelodeon.us">
+    <channel id="Nickelodeon.us">
         <display-name>Nickelodeon</display-name>
         <icon src="https://example.com/logos/channel1.png"/>
     </channel>
