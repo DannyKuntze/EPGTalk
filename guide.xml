@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="Schedules Direct">
   <channel id="nickelodeon.us">
         <display-name>Nickelodeon</display-name>
     </channel>
   <channel id="465245">
+        <display-name>PBS</display-name>
+    </channel>
+  <channel id="">
+        <display-name>Nickelodeon</display-name>
+    </channel>
+  <channel id="">
         <display-name>PBS</display-name>
     </channel>
