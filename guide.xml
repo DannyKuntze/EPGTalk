@@ -52,26 +52,26 @@
   <channel id="cbswcbs.us">
         <display-name>CBS</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="bravo.us">
+        <display-name>Bravo</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="syfy.us">
+        <display-name>SYFY</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="amc.us">
+        <display-name>AMC</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="usanetwork.us">
+        <display-name>USA Network</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="foxnewschannel.us">
+        <display-name>Fox News Channel</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="travelchannel.us">
+        <display-name>Travel Channel</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="qvc.us">
+        <display-name>QVC</display-name>
     </channel>
   <channel id="">
         <display-name></display-name>
