@@ -9,14 +9,14 @@
   <channel id="tbs.us">
         <display-name>TBS</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="bet.us">
+        <display-name>BET</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="freeform.us">
+        <display-name>Freeform</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="cnn.us">
+        <display-name>CNN</display-name>
     </channel>
   <channel id="">
         <display-name></display-name>
