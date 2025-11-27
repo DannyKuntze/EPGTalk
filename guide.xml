@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Your EPG Generator">
-  <channel id="nickelodeon.us">
+  <channel id="nickelodeon-usa-east-feed">
         <display-name>Nickelodeon</display-name>
         <icon src="https://raw.githubusercontent.com/DannyKuntze/place/refs/heads/main/Nickelodeon 2023.png"/>
     </channel>
   <channel id="465245">
         <display-name>PBS</display-name>
-        <icon src="https://example.com/logos/channel1.png"/>
+        <icon src="https://dc79r36mj3c9w.cloudfront.net/prod/filer_public/pbsabout-bento-live-pbs/0a0c8d6b54_PBS_wblue_rgb.png"/>
     </channel>
