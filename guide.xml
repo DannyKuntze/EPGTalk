@@ -33,22 +33,22 @@
   <channel id="espn.us">
         <display-name>ESPN</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="cw.us">
+        <display-name>CW</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="foodnetwork.us">
+        <display-name>Food Network</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="lifetime.us">
+        <display-name>Lifetime</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="hgtv.us">
+        <display-name>HGTV</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="nflnetwork.us">
+        <display-name>NFL Network</display-name>
     </channel>
-  <channel id="">
+  <channel id="cbswcbs.us">
         <display-name></display-name>
     </channel>
   <channel id="">
