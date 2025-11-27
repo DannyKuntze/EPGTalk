@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
   <channel id="nickelodeon.us">
+  <tvg-id="nickelodeon.us">
         <display-name>Nickelodeon</display-name>
     </channel>
   <channel id="465245">
