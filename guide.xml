@@ -21,17 +21,17 @@
   <channel id="mtv.us">
         <display-name>MTV</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="msnbc.us">
+        <display-name>MS NOW</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="historychannel.us">
+        <display-name>History Channel</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="discoveychannel.us">
+        <display-name>Discovery Channel</display-name>
     </channel>
-  <channel id="">
-        <display-name></display-name>
+  <channel id="espn.us">
+        <display-name>ESPN</display-name>
     </channel>
   <channel id="">
         <display-name></display-name>
