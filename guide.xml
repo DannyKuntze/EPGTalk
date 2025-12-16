@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-name="FREE EPG" generator-info-name="epg.pw" generator-info-url="kuntzedanny527@gmail.com">
+<tv source-info-name="FREE EPG" generator-info-name="epg.pw">
   <channel id="465251">
   <tvg-id="nickelodeon.us">
         <display-name>Nickelodeon</display-name>
