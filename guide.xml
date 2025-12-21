@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-name="FREE EPG" generator-info-name="epg.pw">
-  <channel id="465251">
-  <tvg-id="nickelodeon.us">
+  <channel id="nickelodeon.us">
         <display-name>Nickelodeon</display-name>
     </channel>
   <channel id="PBS.us@East">
